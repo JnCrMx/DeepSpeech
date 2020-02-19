@@ -1,0 +1,10 @@
+*.iml
+.idea/
+
+/libdeepspeech/target/
+/libdeepspeech/src/main/java/org/mozilla/deepspeech/libdeepspeech/
+/libdeepspeech/src/main/resources/
+
+/jni/deepspeech_wrap.cpp
+/jni/build/
+/jni/libs/
